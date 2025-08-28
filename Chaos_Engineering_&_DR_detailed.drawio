@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Chaos Engineering & DR">
+    <mxGraphModel dx="1200" dy="900" grid="1" gridSize="10" guides="1">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="c10" value="Prod Observability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="60" y="120" width="280" height="80" as="geometry"/></mxCell>
+        <mxCell id="c11" value="Chaos Experiments (AWS FIS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="380" y="120" width="280" height="80" as="geometry"/></mxCell>
+        <mxCell id="c12" value="Traffic Shift" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="700" y="120" width="280" height="80" as="geometry"/></mxCell>
+        <mxCell id="c13" value="Recovery Playbooks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="1020" y="120" width="280" height="80" as="geometry"/></mxCell>
+        <mxCell id="c14" value="Automated Runbooks (SSM)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="60" y="230" width="280" height="80" as="geometry"/></mxCell>
+        <mxCell id="c15" value="RTO Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="380" y="230" width="280" height="80" as="geometry"/></mxCell>
+        <mxCell id="c16" value="DR Report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="700" y="230" width="280" height="80" as="geometry"/></mxCell>
+        <mxCell id="c17" value="Alerting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBF5FF;strokeColor=#14304B;" vertex="1" parent="1"><mxGeometry x="1020" y="230" width="280" height="80" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
